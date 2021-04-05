@@ -6,6 +6,8 @@ tool from SideFX in unity.
 The project is provided AS IS, I will not provide any support for this, 
 you have the code, you have some samples and it's provided for free.
 
+In the demo scene you can use the cursor keys to move the capsule around.
+
 ![alt text](Doc/PivotBaking01.PNG)  
 
 System requirements
