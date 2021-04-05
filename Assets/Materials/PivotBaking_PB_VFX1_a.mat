@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PivotBaking_PB_VFX1_a
+  m_Shader: {fileID: 4800000, guid: 3cd4f04ae9cf41e43bd946c50684ef01, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _texcoord4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Roughness: 0.30309424
+    - _Spikescale: 0.8167553
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 0.5127714, g: 0.5207428, b: 0.6509434, a: 0}
+    - _Color1: {r: 0.9433962, g: 0, b: 0, a: 0}
